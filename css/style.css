@@ -1016,7 +1016,7 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
   bottom: -12em;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width:500px) {
   .owl-carousel-fullwidth .item .iphone-image .iphone {
     bottom: 0em;
     text-align: center;
