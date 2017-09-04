@@ -59,6 +59,10 @@ h1, h2, h3, h4, h5, h6 {
   background: #f9f6f0;
 }
 
+#contactformalign {
+text-align: center;
+}
+
 #fh5co-header {
   position: absolute;
   z-index: 99;
@@ -1016,7 +1020,7 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
   bottom: -12em;
 }
-@media screen and (max-width:500px) {
+@media screen and (max-width: 768px) {
   .owl-carousel-fullwidth .item .iphone-image .iphone {
     bottom: 0em;
     text-align: center;
