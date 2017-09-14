@@ -72,6 +72,10 @@ text-align: center;
   margin-top: 20px;
 }
 
+#contpos {
+  position: relative;
+}
+
 #splashheader {
   color: #fff;
   font-family: "Source Sans Pro", Arial, sans-serif;
